@@ -1,6 +1,6 @@
 # Java 安装
 
-Java 现在版本众多，一改以往的`老态龙钟`形象；将每两年发布一个版本的周期缩短到半年。
+`Java` 现在版本众多，一改以往的`老态龙钟`形象；将每两年发布一个版本的周期缩短到半年。
 
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6cw7ufdhj60hq09baay02.jpg)
@@ -134,6 +134,19 @@ System.out.println("hello new world");
 再运行后观察效果。
 
 
+> 下一章节我们尝试用一个例子来学习基本的基础语法与常用基础类型(`int/String/double/`)，敬请期待。
+
+
+# 课后练习
+
+通过以下链接预习下节课的有关内容：
+
+
+[https://www.runoob.com/java/java-basic-syntax.html](https://www.runoob.com/java/java-basic-syntax.html)
+
+[https://www.runoob.com/java/java-basic-datatypes.html](https://www.runoob.com/java/java-basic-datatypes.html)
+
+
 ### 参考资料
 
 [https://www.runoob.com/java/java-environment-setup.html](https://www.runoob.com/java/java-environment-setup.html)
@@ -141,3 +154,5 @@ System.out.println("hello new world");
 [https://www.runoob.com/maven/maven-setup.html](https://www.runoob.com/maven/maven-setup.html)
 
 [https://www.runoob.com/git/git-install-setup.html](https://www.runoob.com/git/git-install-setup.html)
+
+[https://zh.wikipedia.org/wiki/Java%E7%89%88%E6%9C%AC%E6%AD%B7%E5%8F%B2#Java_SE_16](https://zh.wikipedia.org/wiki/Java%E7%89%88%E6%9C%AC%E6%AD%B7%E5%8F%B2#Java_SE_16)
