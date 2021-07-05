@@ -48,7 +48,7 @@ java -version
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6faai71lj316j0u00zi.jpg)
 
 
-在终端输入
+在终端输入：
 
 ```shell
 mvn -v
