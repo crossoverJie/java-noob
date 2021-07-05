@@ -15,6 +15,7 @@ Java 现在版本众多，一改以往的`老态龙钟`形象；将每两年发�
 [https://www.oracle.com/java/technologies/javase-jdk11-downloads.html](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6evom7toj30sk124n39.jpg)
+
 下载时如果提示没有登录，没有账户可以注册一个。
 
 具体安装流程可以参考这里：
@@ -51,7 +52,7 @@ java -version
 
 ```shell
 mvn -v
-````
+```
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6fbftbs3j31ig0d4x67.jpg)
 
