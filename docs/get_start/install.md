@@ -90,11 +90,54 @@ git --version
 能够正确输出版本即可。
 
 
+# 下载代码
 
+在磁盘合适的地方新建一个目录，打开 `Git Bash` 利用 `cd 目录地址` 进入到刚才那个目录，接着输入
+
+```shell
+git@github.com:crossoverJie/java-noob.git
+```
+
+运行之后等待代码下载完成。
+
+
+## 导入 IDE
+
+接着代开 `IDEA`，在左上角选择 `Open or Import`，打开刚才下载代码目录。
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6g9msclwj31760qsn1e.jpg)
+
+等待大概 1min ，进度条走完。
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6gbsa6lmj30zm0a4q3p.jpg)
+
+找到这个 HelloWorld 文件打开，点击运行按钮等待`编译、运行`后会在控制台打印运行结果：
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6gd1vk9cj30vi0ba0vx.jpg)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6gdb5i05j30y2054wez.jpg)
+
+当看到这几个字母打印出来后，恭喜你！万里长征第一步开始了。
+
+---
+接着可以尝试修改
+
+```java
+System.out.println("hello world");
+```
+
+这段话的输出内容，比如：
+
+```java
+System.out.println("hello new world");
+```
+
+再运行后观察效果。
 
 
 ### 参考资料
 
 [https://www.runoob.com/java/java-environment-setup.html](https://www.runoob.com/java/java-environment-setup.html)
+
 [https://www.runoob.com/maven/maven-setup.html](https://www.runoob.com/maven/maven-setup.html)
+
 [https://www.runoob.com/git/git-install-setup.html](https://www.runoob.com/git/git-install-setup.html)
