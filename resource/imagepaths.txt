@@ -1,0 +1,4 @@
+# this is a comment details https://trac.ffmpeg.org/wiki/Concatenate
+
+file '/Users/chenjie/Documents/dev/github/java-noob/images/1.jpg'
+file '/Users/chenjie/Documents/dev/github/java-noob/images/2.jpg'

@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [卷一]()
+    * [Get start](get_start/install.md)
     * [将图片制作为视频]()
     * 知识点
         * [流程控制]()
