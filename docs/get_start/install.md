@@ -60,8 +60,33 @@ mvn -v
 
 # IDE 安装
 
+`IDE(Integrated Development Environment)`是集成开发环境的简写，它将我们开发过程中大部分需要的工具整合起来，最终提供开发效率的一个工具。
 
 
+这里推荐使用 `jetbrains` 公司开发 `IDEA`。
+
+下载链接：
+
+[https://www.jetbrains.com/idea/download/#section=windows](https://www.jetbrains.com/idea/download/#section=windows)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6ffokb58j31n00ou41p.jpg)
+直接安装社区版完全足够了。
+
+# Git 安装
+
+`Git` 是一个版本控制软件，可以方便的管理我们代码的版本已经获取他人的代码。
+
+下载链接:
+[https://npm.taobao.org/mirrors/git-for-windows/v2.32.0.windows.1/Git-2.32.0-64-bit.exe](https://npm.taobao.org/mirrors/git-for-windows/v2.32.0.windows.1/Git-2.32.0-64-bit.exe)
+
+![](https://tva1.sinaimg.cn/large/008i3skNly1gs6g1jwzlrj319q0qqdls.jpg)
+
+安装完成后打开 `Git Bash` 软件，输入：
+
+```shell
+git --version
+```
+能够正确输出版本即可。
 
 
 
@@ -71,3 +96,4 @@ mvn -v
 
 [https://www.runoob.com/java/java-environment-setup.html](https://www.runoob.com/java/java-environment-setup.html)
 [https://www.runoob.com/maven/maven-setup.html](https://www.runoob.com/maven/maven-setup.html)
+[https://www.runoob.com/git/git-install-setup.html](https://www.runoob.com/git/git-install-setup.html)
