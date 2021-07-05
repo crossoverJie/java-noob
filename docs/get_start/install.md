@@ -1,6 +1,6 @@
 # Java 安装
 
-`Java` 现在版本众多，一改以往的`老态龙钟`形象；将每两年发布一个版本的周期缩短到半年。
+`Java` 现在版本众多，一改以往`老态龙钟`的形象；将每两年发布一个版本的周期缩短到半年。
 
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6cw7ufdhj60hq09baay02.jpg)
@@ -8,7 +8,7 @@
 
 但官方真正长期支持的版本依然是两年发布一版，所以我们更推荐使用 `LTS(长期支持版)` 版本进行开发学习。
 
-在 `2021` 这个时间节点，更推荐使用 JDK11；不做特殊声明时本文的所有代码都运行与 `JDK11` 平台之上。
+在 `2021` 这个时间节点，更推荐使用 `JDK11`；不做特殊声明时本文的所有代码都运行与 `JDK11` 平台之上。
 
 下载链接：
 
@@ -61,7 +61,7 @@ mvn -v
 
 # IDE 安装
 
-`IDE(Integrated Development Environment)`是集成开发环境的简写，它将我们开发过程中大部分需要的工具整合起来，最终提供开发效率的一个工具。
+`IDE(Integrated Development Environment)`是集成开发环境的简写，它将我们开发过程中大部分需要的工具整合起来，最终提高开发效率的一个工具。
 
 
 这里推荐使用 `jetbrains` 公司开发 `IDEA`。
@@ -71,11 +71,11 @@ mvn -v
 [https://www.jetbrains.com/idea/download/#section=windows](https://www.jetbrains.com/idea/download/#section=windows)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6ffokb58j31n00ou41p.jpg)
-直接安装社区版完全足够了。
+直接安装社区版完全足够了，免费且好用。
 
 # Git 安装
 
-`Git` 是一个版本控制软件，可以方便的管理我们代码的版本已经获取他人的代码。
+`Git` 是一个版本控制软件，可以方便的管理我们代码的版本以及获取他人开源的代码。
 
 下载链接:
 [https://npm.taobao.org/mirrors/git-for-windows/v2.32.0.windows.1/Git-2.32.0-64-bit.exe](https://npm.taobao.org/mirrors/git-for-windows/v2.32.0.windows.1/Git-2.32.0-64-bit.exe)
@@ -90,12 +90,12 @@ git --version
 能够正确输出版本即可。
 
 
-# 下载代码
+# 下载课程代码
 
-在磁盘合适的地方新建一个目录，打开 `Git Bash` 利用 `cd 目录地址` 进入到刚才那个目录，接着输入
+在磁盘合适的地方新建一个目录(方便好记的目录)，打开 `Git Bash` 利用 `cd 目录地址` 进入到刚才那个目录，接着输入
 
 ```shell
-git@github.com:crossoverJie/java-noob.git
+git clone git@github.com:crossoverJie/java-noob.git
 ```
 
 运行之后等待代码下载完成。
@@ -110,7 +110,7 @@ git@github.com:crossoverJie/java-noob.git
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6gbsa6lmj30zm0a4q3p.jpg)
 
-找到这个 HelloWorld 文件打开，点击运行按钮等待`编译、运行`后会在控制台打印运行结果：
+找到这个 `HelloWorld` 文件打开，点击运行按钮等待`编译、运行`后会在控制台打印运行结果：
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gs6gd1vk9cj30vi0ba0vx.jpg)
 
