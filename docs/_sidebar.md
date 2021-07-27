@@ -2,6 +2,7 @@
 
 * [卷一]()
     * [Get start](get_start/install.md)
+    * [基本结构与数据类型](get_start/basic.md)
     * [将图片制作为视频]()
     * 知识点
         * [流程控制]()
